@@ -1,10 +1,16 @@
 _repo: Our-Monthly-Devotions_50739
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50739-tei/images/cover.jpg
 creator:
   author:
     agent_name: Lings, Albert A.
     gutenberg_agent_id: '46065'
     url: http://www.gutenberg.org/2009/agents/46065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50739#Our-Monthly-Devotions
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
 identifiers:
